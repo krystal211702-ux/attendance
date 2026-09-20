@@ -1,0 +1,16 @@
+{
+  "name": "員工打卡",
+  "short_name": "員工打卡",
+  "description": "上下班打卡、加班分鐘與薪資月統計",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f6f8",
+  "theme_color": "#111827",
+  "lang": "zh-Hant-TW",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
